@@ -13,11 +13,6 @@
     }
   ],
   "require": {
-    "php": ">=7.0",
-    "madskullcreations/simplicity":"dev-master@dev"
-  },
-  "require-dev": {
-    "topthink/think-testing": "1.0.*"
   },
   "autoload": {
     "psr-4": {

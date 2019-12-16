@@ -1,0 +1,23 @@
+{
+  "name": "bpz/test-packagist",
+  "type": "project",
+  "description": "this is a project",
+  "keywords": [
+    "map"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "baipingzhun",
+      "email": "1720080170@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\":"app/"
+    }
+  }
+}

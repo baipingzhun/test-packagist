@@ -16,6 +16,9 @@
     "php": ">=7.0",
     "madskullcreations/simplicity":"dev-master@dev"
   },
+  "require-dev": {
+    "mysql": ">=5.6"
+  },
   "autoload": {
     "psr-4": {
       "App\\":"app/"
